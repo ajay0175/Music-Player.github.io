@@ -13,8 +13,8 @@ let allMusic = [
     {
       name: "Harley Bird - Home",
       artist: "Jordan Schor",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
-      src: "music-1"
+      img: "music-6",
+      src: "music-6"
     },
     {
       name: "Ikson Anywhere – Ikson",
