@@ -13,38 +13,44 @@ let allMusic = [
     {
       name: "Harley Bird - Home",
       artist: "Jordan Schor",
-      img: "music-6",
-      src: "music-6"
+      img: "music-1",
+      src: "music-1"
     },
     {
       name: "Ikson Anywhere – Ikson",
       artist: "Audio Library",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
+      img: "music-2",
       src: "music-2"
-    },
-    {
-      name: "Beauz & Jvna - Crazy",
-      artist: "Beauz & Jvna",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
-      src: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg"
-    },
-    {
-      name: "Hardwind - Want Me",
-      artist: "Mike Archangelo",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
-      src: "music-4"
-    },
-    {
-      name: "Jim - Sun Goes Down",
-      artist: "Jim Yosef x Roy",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
-      src: "music-5"
     },
     {
       name: "Lost Sky - Vision NCS",
       artist: "NCS Release",
-      img: "image/james-sullivan-x8l63IUeuwQ-unsplash.jpg",
-      src: ""
+      img: "music-3",
+      src: "music-3"
+    },
+    {
+      name: "Beauz & Jvna - Crazy",
+      artist: "Beauz & Jvna",
+      img: "music-4",
+      src: "music-4"
+    },
+    {
+      name: "Jim - Let you go",
+      artist: "Jim Yosef",
+      img: "music-5",
+      src: "music-5"
+    },
+    {
+      name: "K-391 - PLAY",
+      artist: "Alan Walker",
+      img: "music-6",
+      src: "music-6"
+    },
+    {
+      name: "Hardwind - Want Me",
+      artist: "Mike Archangelo",
+      img: "music-7",
+      src: "music-7"
     },
     // like this paste it and remember to give comma after ending of this bracket }
     // {
