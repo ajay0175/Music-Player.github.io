@@ -13,8 +13,8 @@
 }
 
 :root {
-    --purple: #000807c2;
-    --aqua: #030e00d7;
+    --purple: #10ffe3ee;
+    --aqua: #2f00ffe8;
     --lightblack: #6f5151;
     --white: #ffffff;
     --darkwhite: #a3a3a3;
@@ -27,7 +27,7 @@ body {
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: linear-gradient(var(--purple) 0%, var(--aqua) 100%);
+    background-color: #0a0a0a;
 }
 
 .wrapper {
@@ -36,8 +36,8 @@ body {
     overflow: hidden;
     position: relative;
     border-radius: 15px;
-    background-color: rgb(218, 243, 135);
-    box-shadow: 5px 6px 15px rgb(240, 46, 59);
+    background-color: rgb(255, 190, 237);
+    box-shadow: 5px 6px 15px rgb(195, 44, 255);
 }
 
 .wrapper i {
@@ -57,6 +57,7 @@ body {
 .top-bar i {
     font-size: 30px;
     color: var(--lightblack);
+
 }
 
 .top-bar i:first-child {
@@ -66,6 +67,7 @@ body {
 .top-bar span {
     font-size: 18px;
     margin-left: 100px;
+    font-weight: 500;
     color: var(--lightblack);
 }
 
@@ -95,12 +97,14 @@ body {
 
 .song-details .name {
     font-size: 21px;
+    font-weight: 500;
 }
 
 .song-details .artist {
     font-size: 18px;
-    opacity: 0.9;
+    opacity: 1.5;
     line-height: 35px;
+    font-weight: 500;
 }
 
 .progress-area {
@@ -146,6 +150,7 @@ body {
 
 .song-timer span {
     font-size: 13px;
+    font-weight: 500;
     color: var(--lightblack);
 }
 
