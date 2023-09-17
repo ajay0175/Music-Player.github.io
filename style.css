@@ -130,23 +130,10 @@ ol li:hover {
     font-size: 200px;
 }
 
-
-.top-right {
+.img-right {
+    object-fit: cover;
     height: 100%;
     width: 100%;
-    position: relative;
-    /* background-color: pink; */
-}
-
-.img-right {
-    position: absolute;
-    height: 103%;
-    width: 100%;
-    /* background-color: yellow; */
-    background-image: url("./images/Bg_Martin_garix.jpg");
-    background-repeat: no-repeat;
-    background-attachment:local;
-    background-size: 100% 100%;
 }
 
 .bottom {
